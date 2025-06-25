@@ -1,0 +1,1 @@
+2025-06-21 12:23:25.49375 +0530 IST m=+0.000397460: Info: This is a screen log message. /n
